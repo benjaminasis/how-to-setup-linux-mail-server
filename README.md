@@ -1,1 +1,3 @@
-# how-to-setup-linux-mail-server
+# How to setup Linux Mail Server
+
+Documentation to follow
